@@ -5,7 +5,7 @@ import tkinter as tk
 from PIL import Image, ImageDraw, ImageOps
 import cupy as cp
 
-c = 1
+c = 0
 class DrawingApp:
     def __init__(self, root):
         self.root = root
